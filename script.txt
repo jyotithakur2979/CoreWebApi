@@ -1,0 +1,4 @@
+﻿
+ng g c Clg-List -m app.module
+
+Scaffold-DbContext "Server=SUDHIR\SQLEXPRESS;Database=jyoti;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entity -f
